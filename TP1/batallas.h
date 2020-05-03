@@ -2,13 +2,6 @@
 #define _BATALLAS_H_
 
 #define MAX_NOMBRE  80
-#define MAX_POKEMON 3
-#define FORMATO_LECTURA "%[^;];%[^;];%i;%i;%i;%[^;];%i;%i;%i;%[^;];%i;%i;%i\n"
-#define LECTURA "r"
-
-#define PRIMERO 0
-#define SEGUNDO 1
-#define TERCERO 2
 
 #define ERROR -1
 #define EXITO 0
